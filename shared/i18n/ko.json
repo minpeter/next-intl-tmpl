@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "안녕 세상",
+    "title-ko-only": "안녕 intl"
+  },
+  "NotFoundPage": {
+    "title": "404 Not Found"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "Switch to {locale}"
+  }
+}
